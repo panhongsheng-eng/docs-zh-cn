@@ -28,7 +28,7 @@
 
 1. `vue` 被解析为 `vue.runtime.esm-bundler.js`。
 2. [编译时功能标记](https://github.com/vuejs/core/tree/main/packages/vue#bundler-build-feature-flags)已被正确配置。
-3. <code>process.env<wbr>.NODE_ENV</code> 会在构建时被替换为 `"production"`。
+3. <code>process.env<wbr>.NODE_ENV</code> 会在构建时被替换为 `"production"`，
 
 其他参考：
 
